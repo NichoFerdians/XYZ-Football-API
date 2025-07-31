@@ -1,6 +1,6 @@
 # XYZ Football API
 
-RESTful API management platfom untuk team XYZ menggunakan Laravel.
+RESTful API management platform untuk team XYZ menggunakan Laravel.
 
 ## Setup local development
 
